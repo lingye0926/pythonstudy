@@ -196,14 +196,12 @@ myfriends.send(u'python自动早报到了 ' + cur_time)
 myfriends.send_image('daily2.jpeg')
 
 # groups = ['test',
-#           '[禁推]小詹学Python交流①群',
-#           '[禁推]小詹学Python交流②群',
-#           '[禁推]小詹学Python交流③群',
-#           '[禁推]小詹学Python交流④群',
-#           '[禁推]小詹学Python交流⑤群',
-#           '[禁推]小詹学Python交流⑥群',
-#           '[禁推]小詹学Python交流⑦群',
-#           '[禁推]小詹学Python交流⑧群']
+#           '交流①群',
+#           '交流②群',
+#           '交流③群',
+#           '交流④群',
+#           '交流⑤群',
+#           '交流⑥群']
 # for send_OBJ in groups:
 #     my_groups = bot.groups().search(groups)[0]
 #     my_groups.send('python自动早报到了 ' + cur_time)
